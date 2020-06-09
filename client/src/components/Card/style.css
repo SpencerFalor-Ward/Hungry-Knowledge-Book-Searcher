@@ -1,9 +1,6 @@
-.jumbotron {
-  padding: 100px;
-  background-image: url(../../assets/images/orcishLibrarian.jpg);
+.card.mt-4 {
   border-color: whitesmoke;
   border: outset;
   border-color: black;
   box-shadow: -5px 5px 5px black;
-  
 }
