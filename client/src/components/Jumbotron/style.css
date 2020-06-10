@@ -3,7 +3,6 @@
   background-image: url(../../assets/images/orcishLibrarian.jpg);
   border-color: whitesmoke;
   border: outset;
-  border-color: black;
-  box-shadow: -5px 5px 5px black;
-  
+  border-color: whitesmoke;
+  box-shadow: -5px 5px 5px grey;
 }
