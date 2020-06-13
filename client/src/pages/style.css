@@ -14,7 +14,7 @@ body {
 h1 {
 font-size: 475%;
 text-shadow: -2px 2px 2px lightgrey;
--webkit-text-stroke: .25px black;
+-webkit-text-stroke: .25px black !important;
 font-weight: bolder;
 text-decoration: underline;
 }
@@ -22,7 +22,7 @@ text-decoration: underline;
 h2 {
     font-size: 300%;
     text-shadow: -1px 1px 1px lightgrey;
-    -webkit-text-stroke: .75px black;
+    -webkit-text-stroke: .75px black !important;
     text-decoration: underline;
 }
 
