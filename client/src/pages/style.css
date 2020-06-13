@@ -4,7 +4,7 @@ body {
     font-family: 'metal mania';
     color: goldenrod;
     text-shadow: -1px 1px 1px lightgrey;
-    -webkit-text-stroke: .05px black;
+    -webkit-text-stroke: .05px black !important;
   }
 
 .text-center{
