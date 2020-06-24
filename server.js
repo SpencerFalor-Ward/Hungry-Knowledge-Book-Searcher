@@ -3,6 +3,7 @@ const mongoose = require("mongoose");
 const routes = require("./routes");
 const app = express();
 const PORT = process.env.PORT || 3001;
+require('dotenv').config()
 
 // Configure body parsing for AJAX requests
 app.use(express.urlencoded({ extended: true }));
@@ -17,7 +18,7 @@ app.use(routes);
 
 // Connect to the Mongo DB
 mongoose.connect(
-  process.env.MONGODB_URI || "mongodb://sfwBookSearch:0rcishL1brarian@ds063809.mlab.com:63809/heroku_448drc0n",
+  process.env.MONGODB_URI || "mongodb://localhost/sfwBookSearcher",
   {
     useCreateIndex: true,
     useNewUrlParser: true
