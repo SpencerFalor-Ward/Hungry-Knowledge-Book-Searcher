@@ -1,6 +1,6 @@
 # :book: [Welcome to SpencerFalor-Ward's Book Searcher](https://book-searcher-sfw.herokuapp.com/) :book:
 
-## Book searcher ![WordPress Theme Active Installs](https://img.shields.io/wordpress/theme/installs/twentyseventeen)
+![Followers](https://img.shields.io/github/followers/SpencerFalor-Ward?style=social) ![License](https://img.shields.io/github/license/SpencerFalor-Ward/hw-unit21-bookSearcher.github.io) ![Language](https://img.shields.io/github/languages/top/SpencerFalor-Ward/hw-unit21-bookSearcher.github.io) ![Latest Commit](https://img.shields.io/github/last-commit/SpencerFalor-Ward/hw-unit21-bookSearcher.github.io)
 
 A book searcher that uses the google books API, allowing you to search and create a list of saved books for future reading. 
 
@@ -22,11 +22,11 @@ npm install the following: axios, dotenv, if-env, express, mongoose
 
 Input your query into the search. Select your results. Save them for future viewing. 
 
-![Employee directory demo](./employeeDirectoryDemo.gif)
+![Employee directory demo](./googleBookSearcher.gif)
 
 ## Liscence
 
-NA
+Licensed under the [MIT License](https://choosealicense.com/licenses/mit/) license.
 
 ## Contributing
 
