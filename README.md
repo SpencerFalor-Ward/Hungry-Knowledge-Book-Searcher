@@ -22,7 +22,7 @@ npm install the following: axios, dotenv, if-env, express, mongoose
 
 Input your query into the search. Select your results. Save them for future viewing. 
 
-![Employee directory demo](./client/src/assets/images/googleBookSearcher.gif)
+![Google book searcher demo](./client/src/assets/images/googleBookSearcher.gif)
 
 ## Liscence
 
