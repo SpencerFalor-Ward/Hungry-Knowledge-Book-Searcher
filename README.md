@@ -1,6 +1,6 @@
 # :book: [Welcome to SpencerFalor-Ward's Book Searcher](https://book-searcher-sfw.herokuapp.com/) :book:
 
-![Followers](https://img.shields.io/github/followers/SpencerFalor-Ward?style=social) ![License](https://img.shields.io/github/license/SpencerFalor-Ward/hw-unit21-bookSearcher.github.io) ![Language](https://img.shields.io/github/languages/top/SpencerFalor-Ward/hw-unit21-bookSearcher.github.io) ![Latest Commit](https://img.shields.io/github/last-commit/SpencerFalor-Ward/hw-unit21-bookSearcher.github.io)
+![Followers](https://img.shields.io/github/followers/SpencerFalor-Ward?style=social) ![License](https://img.shields.io/github/license/SpencerFalor-Ward/hw-unit21-bookSearch) ![Language](https://img.shields.io/github/languages/top/SpencerFalor-Ward/hw-unit21-bookSearch) ![Latest Commit](https://img.shields.io/github/last-commit/SpencerFalor-Ward/hw-unit21-bookSearch)
 
 A book searcher that uses the google books API, allowing you to search and create a list of saved books for future reading. 
 
