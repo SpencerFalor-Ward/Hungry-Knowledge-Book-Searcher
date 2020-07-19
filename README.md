@@ -8,7 +8,7 @@ A book searcher that uses the google books API, allowing you to search and creat
 
 -   [Installation](#Installation)
 -   [Usage](#Usage)
--   [Liscence](#Liscence)
+-   [License](#License)
 -   [Contributing](#Contributing)
 -   [Test](#Test)
 -   [Questions](#Questions)
@@ -24,7 +24,7 @@ Input your query into the search. Select your results. Save them for future view
 
 ![Google book searcher demo](./client/src/assets/images/googleBookSearcher.gif)
 
-## Liscence
+## License
 
 Licensed under the [MIT License](https://choosealicense.com/licenses/mit/) license.
 
